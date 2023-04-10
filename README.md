@@ -1,3 +1,4 @@
 # FACE_RECOGNITION_DETECT
-DDDD
+Using HOG to train
+Perform on Raspberry Pi 3B
  
